@@ -105,6 +105,7 @@ The game has 8 global variables for keeping track of the following things
 
  ## Sprites
 The following are the letter and number sprites the game uses.
+
 ![image](https://github.com/cameronsutton/MIPS-Tetris/assets/165424172/7bac8b7b-183f-4290-b608-03d1aaa8742c)
 
 
